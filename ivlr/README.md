@@ -1,7 +1,0 @@
-## Ivlr
-
-vps
-
-#### License
-
-MIT
